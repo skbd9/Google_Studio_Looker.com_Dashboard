@@ -12,7 +12,7 @@ These key metrics collectively offer a nuanced understanding of our business lan
 
 <strong>Total State:</strong> Explore aggregated data on sales distributed by state, enabling regional analysis and strategic decision-making.
 <h1> Dashboard in Google Studio/Looker Studio</h1>
-![Sales_report_page-01](https://github.com/skbd9/Google_Studio_Looker.com_Dashboard/assets/108250623/a55a9818-d129-485b-a51e-d92fc30d0fc3)
 
+![Sales_report_page-0001](https://github.com/skbd9/Google_Studio_Looker.com_Dashboard/assets/108250623/d3a3699a-609c-4b17-8a81-31d032694147)
 
-![Sales_report_page-02](https://github.com/skbd9/Google_Studio_Looker.com_Dashboard/assets/108250623/e25eef9c-7b01-47ff-9187-c680d73aa9d6)
+![Sales_report_page-0002](https://github.com/skbd9/Google_Studio_Looker.com_Dashboard/assets/108250623/882f4abe-3b41-4268-a0cd-863b497de554)
