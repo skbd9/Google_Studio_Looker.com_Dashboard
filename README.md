@@ -14,7 +14,8 @@ These key metrics collectively offer a nuanced understanding of our business lan
 <h2>Summary of Findings</h2>
 <strong>Best-Selling Product Category:</strong> Phones emerge as the top-selling product category, indicating strong customer demand and market popularity.<br>
 <strong>Profitability Focus:</strong>  Despite phones leading in sales volume, the copier segment stands out for contributing significantly more to overall profitability. This emphasizes the importance of considering profit margins alongside sales figures.<br>
-<strong>Regional Variations:</strong> Variations in sales performance across<strong> West region</strong> highlight opportunities for targeted marketing and sales efforts, tailoring strategies to regional preferences and demands.
+<strong>Regional Variations:</strong> Variations in sales performance across<strong> West region</strong> highlight opportunities for targeted marketing and sales efforts, tailoring strategies to regional preferences and demands.<br>
+Notably, 'Tables' exhibit a substantial negative profit of -$17,725.48, despite a discount of 83.35%. 'Bookcases' and 'Supplies' also show negative profits, emphasizing the need for a closer look at pricing and discount strategies in these categories.
 <h1> Dashboard in Google Studio/Looker Studio</h1>
 
 
