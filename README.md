@@ -11,4 +11,5 @@ These key metrics collectively offer a nuanced understanding of our business lan
 <strong>Quantity:</strong> The total quantity of products sold, offering insights into product demand and inventory management.
 
 <strong>Total State:</strong> Explore aggregated data on sales distributed by state, enabling regional analysis and strategic decision-making.
+<h1>Google Studio/Looker Studio</h1>
 
