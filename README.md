@@ -11,6 +11,7 @@ These key metrics collectively offer a nuanced understanding of our business lan
 <strong>Quantity:</strong> The total quantity of products sold, offering insights into product demand and inventory management.
 
 <strong>Total State:</strong> Explore aggregated data on sales distributed by state, enabling regional analysis and strategic decision-making.
+<h2>Summary of Findings</h2>
 <h1> Dashboard in Google Studio/Looker Studio</h1>
 
 ![Sales_report_page-0001](https://github.com/skbd9/Google_Studio_Looker.com_Dashboard/assets/108250623/d3a3699a-609c-4b17-8a81-31d032694147)
