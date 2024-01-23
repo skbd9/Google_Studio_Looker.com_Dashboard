@@ -12,7 +12,7 @@ These key metrics collectively offer a nuanced understanding of our business lan
 
 <strong>Total State:</strong> Explore aggregated data on sales distributed by state, enabling regional analysis and strategic decision-making.
 <h2>Summary of Findings</h2>
-<strong>Best-Selling Product Category:</strong> Phones emerge as the top-selling product category, indicating strong customer demand and market popularity.
+<strong>Best-Selling Product Category:</strong> Phones emerge as the top-selling product category, indicating strong customer demand and market popularity.<br>
 <strong>Profitability Focus:</strong>  Despite phones leading in sales volume, the copier segment stands out for contributing significantly more to overall profitability. This emphasizes the importance of considering profit margins alongside sales figures.
 <h1> Dashboard in Google Studio/Looker Studio</h1>
 
