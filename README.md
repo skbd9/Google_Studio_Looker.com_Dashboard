@@ -12,6 +12,8 @@ These key metrics collectively offer a nuanced understanding of our business lan
 
 <strong>Total State:</strong> Explore aggregated data on sales distributed by state, enabling regional analysis and strategic decision-making.
 <h2>Summary of Findings</h2>
+<strong>Best-Selling Product Category:</strong> Phones emerge as the top-selling product category, indicating strong customer demand and market popularity.
+2.
 <h1> Dashboard in Google Studio/Looker Studio</h1>
 
 
