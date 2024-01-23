@@ -17,11 +17,10 @@ These key metrics collectively offer a nuanced understanding of our business lan
 <strong>Regional Variations:</strong> Variations in sales performance across<strong> West region</strong> highlight opportunities for targeted marketing and sales efforts, tailoring strategies to regional preferences and demands.<br>
 <strong>Notably</strong>, 'Tables' exhibit a substantial negative profit of -$17,725.48, despite a discount of 83.35%. 'Bookcases' and 'Supplies' also show negative profits, emphasizing the need for a closer look at pricing and discount strategies in these categories.
 <h1> Dashboard in Google Studio/Looker Studio</h1>
+![Sales_report (1)_page-0001](https://github.com/skbd9/Google_Studio_Looker.com_Dashboard/assets/108250623/5fcf33f9-0ca5-4c48-a5ea-f9cf20a5c9be)
 
 
-![Sales_report_page-0001](https://github.com/skbd9/Google_Studio_Looker.com_Dashboard/assets/108250623/d3a3699a-609c-4b17-8a81-31d032694147)
 
-![Sales_report (1)_page-0002](https://github.com/skbd9/Google_Studio_Looker.com_Dashboard/assets/108250623/bdc5e3fc-683f-410f-a68c-6b151e407a80)
 
 
 <h2>Contact me!</h2>
