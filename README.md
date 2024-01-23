@@ -18,5 +18,10 @@ These key metrics collectively offer a nuanced understanding of our business lan
 ![Sales_report_page-0002](https://github.com/skbd9/Google_Studio_Looker.com_Dashboard/assets/108250623/882f4abe-3b41-4268-a0cd-863b497de554)
 
 <h2>Contact me!</h2>
-©2024 Shahriar Kabir. All rights reserved
+If you have any questions, suggestions, or just want to say hello, you can reach out to me.I would love to hear from you!
+©2024 Shahriar Kabir. All rights reserved<br>
+<a href="www.linkedin.com/in/shahriar-kabir-94562b2a1">linkedin</a><br>
+<a href="https://x.com/SHAHRIAR7651?t=tpZqBfd0DvVd8CxD1POw8Q&s=09">Twitter/X</a>
+
+
 
