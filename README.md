@@ -4,11 +4,11 @@ Introducing my dynamic Sales Dashboard created using Google Data Studio! This in
 <h2>Key Metrics Overview:</h2>
 These key metrics collectively offer a nuanced understanding of our business landscape, guiding strategic decisions and fostering continuous improvement.
 
-Total Orders: The cumulative count of all orders processed, reflecting the scale of our business operations.
+<strong>Total Orders:</strong> The cumulative count of all orders processed, reflecting the scale of our business operations.
 
-Total Sales: The overall revenue generated from these orders, providing a snapshot of our financial performance.
+<strong>Total Sales:</strong> The overall revenue generated from these orders, providing a snapshot of our financial performance.
 
-Quantity: The total quantity of products sold, offering insights into product demand and inventory management.
+<strong>Quantity:</strong> The total quantity of products sold, offering insights into product demand and inventory management.
 
-Total State: Explore aggregated data on sales distributed by state, enabling regional analysis and strategic decision-making.
+<strong>Total State:</strong> Explore aggregated data on sales distributed by state, enabling regional analysis and strategic decision-making.
 
