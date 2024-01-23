@@ -18,17 +18,16 @@ These key metrics collectively offer a nuanced understanding of our business lan
 <strong>Notably</strong>, 'Tables' exhibit a substantial negative profit of -$17,725.48, despite a discount of 83.35%. 'Bookcases' and 'Supplies' also show negative profits, emphasizing the need for a closer look at pricing and discount strategies in these categories.
 <h1> Dashboard in Google Studio/Looker Studio</h1>
 
+![0001](https://github.com/skbd9/Google_Studio_Looker.com_Dashboard/assets/108250623/63ae9fff-a299-4ba3-a41f-a3a6fb58621c)
 
-![Sales_report (1)_page-0001](https://github.com/skbd9/Google_Studio_Looker.com_Dashboard/assets/108250623/8175c548-4611-4bca-98ec-1d74fcf1370e)
+![0002](https://github.com/skbd9/Google_Studio_Looker.com_Dashboard/assets/108250623/7bf54d8c-3cf5-4a47-af5e-959d32bd2cd4)
 
-
-
-![Sales_report (1)_page-0002](https://github.com/skbd9/Google_Studio_Looker.com_Dashboard/assets/108250623/34dd94b8-8f49-4567-9c75-70209be04311)
 <h2>Contact me!</h2>
 If you have any questions, suggestions, or just want to say hello, you can reach out to me.I would love to hear from you!
 ©2024 Shahriar Kabir. All rights reserved<br>
 <a href="www.linkedin.com/in/shahriar-kabir-94562b2a1">linkedin</a><br>
 <a href="https://x.com/SHAHRIAR7651?t=tpZqBfd0DvVd8CxD1POw8Q&s=09">Twitter/X</a>
+
 
 
 
